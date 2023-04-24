@@ -1,0 +1,32 @@
+/* .bg-img111 {
+  width: 100%;
+  height: 50%;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(6.jpg);
+  color: red !important;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(7.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(8.jpg);
+} */
+
+ul {
+  display: flex;
+  gap: 25px;
+}
+footer div {
+  display: flex;
+}
+footer {
+  margin: 3% 3%;
+
+  display: flex;
+  justify-content: space-between;
+}
